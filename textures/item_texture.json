@@ -1,0 +1,8 @@
+{
+	"texture_name": "atlas.items",
+	"texture_data": {		
+		"nip_sword": {
+			"textures": "textures/items/nip_sword.png"
+		}
+	}
+}

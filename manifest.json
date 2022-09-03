@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Un pack pour s'amuser",
+      "name": "Nip Pack",
+      "uuid":"160fc4a9-4a9a-4ddb-a5ad-941084060ae2",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "Testons un peu ce truc",
+        "type": "resources",
+        "uuid": "5ec208df-3046-4303-8b2b-063deb299a97",
+        "version": [1, 0, 0]
+      }
+    ]
+   }
